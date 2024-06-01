@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CouponMania</string>
+    <string name="category_prompt">Select category</string>
+</resources>
